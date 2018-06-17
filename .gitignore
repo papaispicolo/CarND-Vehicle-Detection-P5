@@ -1,0 +1,5 @@
+dataset_all
+dataset
+models
+.ipynb_checkpoints/**
+.DS_Store
